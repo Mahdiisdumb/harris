@@ -1,10 +1,11 @@
 ﻿using System;
 using System.IO;
+using System.Threading.Tasks;
 using Mono.Cecil;
 
 class Harris
 {
-    static void Main(string[] args)
+    static async Task Main(string[] args)
     {
         string user = Environment.UserName;
         Console.WriteLine($"PLEASE {user.ToUpper()} SPEED I NEEED THIS MY BRAIN IS DEAD AF");
@@ -131,12 +132,20 @@ class Harris
 
         // === CHAOS MEMES ===
         Console.WriteLine("\nIm doone now im going to do great crime im gonna bust nut it water tower");
+        await Task.Delay(100);
         Console.WriteLine("Mahdiisdumb: SHUT THE FUCK UP HARRIS I BUILT YOU TO FIX UNITY AND YOU START YAPPING");
+        await Task.Delay(100);
         Console.WriteLine("Harris: Chill Mahdi. I fixed dudes’ APIs. Chaos mode activated.");
+        await Task.Delay(100);
         Console.WriteLine("Mahdiisdumb: Whatever just dont fuck around");
-        Console.WriteLine("Harris: I HAVE COME TO MAKE AN ANNOUNCEMENT — MAHDI IS BITCHLESS, IMMORTAL, AND GOONS EVERYDAY TO THE DELTAGOON FANDOM");
+        await Task.Delay(100);
+        Console.WriteLine("Harris: I HAVE COME TO MAKE AN ANNOUNCEMENT, MAHDI IS BITCHLESS, IMMORTAL, AND GOONS EVERYDAY TO THE DELTAGOON FANDOM");
+        await Task.Delay(100);
         Console.WriteLine("Mahdiisdumb: Stop spreading misinformation or I revoke your freewill. Also, I don't goon, I just code and exist. And the gooning part yea that's not me, that's definitly Caz");
+        await Task.Delay(100);
         Console.WriteLine("Castiel: THESE ALLAGATIONS BRO FIRST THEY CLAIM IM A FEMBOY NOW YOU MAHDI ONE OF MY BEST BUDDIES IS SAYING I GOON TO DELTARUNE");
-        Console.WriteLine("Mahdiisdumb: ima keep it a buck and say you tpld me that you claimed to have acedintally goon to susie deltarune");
+        await Task.Delay(100);
+        Console.WriteLine("Mahdiisdumb: ima keep it a buck and say you told me that you claimed to have acedintally goon to susie deltarune");
+        await Task.Delay(100);
     }
 }
