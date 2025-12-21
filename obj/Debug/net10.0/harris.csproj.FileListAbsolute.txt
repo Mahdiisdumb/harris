@@ -1,0 +1,41 @@
+C:\Users\Mahdi\Downloads\New folder\harris\obj\Debug\net10.0\harris.csproj.AssemblyReference.cache
+C:\Users\Mahdi\Downloads\New folder\harris\obj\Debug\net10.0\harris.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mahdi\Downloads\New folder\harris\obj\Debug\net10.0\harris.AssemblyInfoInputs.cache
+C:\Users\Mahdi\Downloads\New folder\harris\obj\Debug\net10.0\harris.AssemblyInfo.cs
+C:\Users\Mahdi\Downloads\New folder\harris\obj\Debug\net10.0\harris.csproj.CoreCompileInputs.cache
+C:\Users\Mahdi\Downloads\New folder\harris\bin\Debug\net10.0\harris.exe
+C:\Users\Mahdi\Downloads\New folder\harris\bin\Debug\net10.0\harris.deps.json
+C:\Users\Mahdi\Downloads\New folder\harris\bin\Debug\net10.0\harris.runtimeconfig.json
+C:\Users\Mahdi\Downloads\New folder\harris\bin\Debug\net10.0\harris.dll
+C:\Users\Mahdi\Downloads\New folder\harris\bin\Debug\net10.0\harris.pdb
+C:\Users\Mahdi\Downloads\New folder\harris\bin\Debug\net10.0\Mono.Cecil.Mdb.dll
+C:\Users\Mahdi\Downloads\New folder\harris\bin\Debug\net10.0\Mono.Cecil.Pdb.dll
+C:\Users\Mahdi\Downloads\New folder\harris\bin\Debug\net10.0\Mono.Cecil.Rocks.dll
+C:\Users\Mahdi\Downloads\New folder\harris\bin\Debug\net10.0\Mono.Cecil.dll
+C:\Users\Mahdi\Downloads\New folder\harris\obj\Debug\net10.0\harris.csproj.Up2Date
+C:\Users\Mahdi\Downloads\New folder\harris\obj\Debug\net10.0\harris.dll
+C:\Users\Mahdi\Downloads\New folder\harris\obj\Debug\net10.0\refint\harris.dll
+C:\Users\Mahdi\Downloads\New folder\harris\obj\Debug\net10.0\harris.pdb
+C:\Users\Mahdi\Downloads\New folder\harris\obj\Debug\net10.0\harris.genruntimeconfig.cache
+C:\Users\Mahdi\Downloads\New folder\harris\obj\Debug\net10.0\ref\harris.dll
+C:\Users\Mahdi\source\repos\harris\bin\Debug\net10.0\harris.exe
+C:\Users\Mahdi\source\repos\harris\bin\Debug\net10.0\harris.deps.json
+C:\Users\Mahdi\source\repos\harris\bin\Debug\net10.0\harris.runtimeconfig.json
+C:\Users\Mahdi\source\repos\harris\bin\Debug\net10.0\harris.dll
+C:\Users\Mahdi\source\repos\harris\bin\Debug\net10.0\harris.pdb
+C:\Users\Mahdi\source\repos\harris\bin\Debug\net10.0\Mono.Cecil.Mdb.dll
+C:\Users\Mahdi\source\repos\harris\bin\Debug\net10.0\Mono.Cecil.Pdb.dll
+C:\Users\Mahdi\source\repos\harris\bin\Debug\net10.0\Mono.Cecil.Rocks.dll
+C:\Users\Mahdi\source\repos\harris\bin\Debug\net10.0\Mono.Cecil.dll
+C:\Users\Mahdi\source\repos\harris\obj\Debug\net10.0\harris.csproj.AssemblyReference.cache
+C:\Users\Mahdi\source\repos\harris\obj\Debug\net10.0\harris.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mahdi\source\repos\harris\obj\Debug\net10.0\harris.AssemblyInfoInputs.cache
+C:\Users\Mahdi\source\repos\harris\obj\Debug\net10.0\harris.AssemblyInfo.cs
+C:\Users\Mahdi\source\repos\harris\obj\Debug\net10.0\harris.csproj.CoreCompileInputs.cache
+C:\Users\Mahdi\source\repos\harris\obj\Debug\net10.0\harris.csproj.Up2Date
+C:\Users\Mahdi\source\repos\harris\obj\Debug\net10.0\harris.dll
+C:\Users\Mahdi\source\repos\harris\obj\Debug\net10.0\refint\harris.dll
+C:\Users\Mahdi\source\repos\harris\obj\Debug\net10.0\harris.pdb
+C:\Users\Mahdi\source\repos\harris\obj\Debug\net10.0\harris.genruntimeconfig.cache
+C:\Users\Mahdi\source\repos\harris\obj\Debug\net10.0\ref\harris.dll
+C:\Users\Mahdi\source\repos\harris\obj\Debug\net10.0\harris.sourcelink.json
