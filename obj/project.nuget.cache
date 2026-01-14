@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "XDRwHREdOrA=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Mahdi\\source\\repos\\harris\\harris.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Mahdi\\.nuget\\packages\\mono.cecil\\0.11.6\\mono.cecil.0.11.6.nupkg.sha512"
+  ],
+  "logs": []
+}
